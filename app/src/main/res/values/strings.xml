@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JikeContacts</string>
+    <string name="call_phone">call phone</string>
+    <string name="name">name</string>
+    <string name="add_contact">add contact</string>
+    <string name="phone">phone</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="text_Null">contact person or phone number can not be empty</string>
+    <string name="modify">Modify contact</string>
+    <string name="send_Message">send message</string>
+</resources>
