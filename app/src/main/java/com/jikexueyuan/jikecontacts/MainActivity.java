@@ -98,6 +98,7 @@ public class MainActivity extends AppCompatActivity {
                 .show();
     }
 
+    //显示更新对话框
     private void showUpdataDialog(final ContactBean oldContact) {
         View view = View.inflate(this, R.layout.dialog_add, null);
 
